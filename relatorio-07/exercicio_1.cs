@@ -49,8 +49,6 @@ public class Program
         combatente1.Equipar("Espada");
         combatente3.Equipar("Lanca");
 
-        // combatente1.Posto = "General"; // Erro: Posto possui private set.
-
         combatente1.ApresentarUnidade();
         combatente2.ApresentarUnidade();
         combatente3.ApresentarUnidade();
